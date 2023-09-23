@@ -15,3 +15,4 @@ Sample image of the input and the output for 2:
 <img width="1485" alt="Screenshot 2023-09-23 at 12 53 24 PM" src="https://github.com/ananya-agarwal/webScrap/assets/68558847/9d718e83-6508-429c-9e11-7a5b92aa05e3">
 <br>
 <img width="1728" alt="Screenshot 2023-09-23 at 12 57 28 PM" src="https://github.com/ananya-agarwal/webScrap/assets/68558847/7c99ac8b-e986-4fac-b323-f0cd9569ee87">
+For the complete output file, refer the "scrapped excel file.xls" uploaded in the repo itself(https://github.com/ananya-agarwal/webScrap)
